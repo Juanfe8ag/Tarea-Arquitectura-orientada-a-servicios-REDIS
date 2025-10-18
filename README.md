@@ -1,4 +1,4 @@
-### Tarea Arquitectura por eventos con REDIS
+# Tarea Arquitectura por eventos con REDIS
 ## Autor: Juan Felipe Ochoa
 
 ## ¿Qué es Redis?
